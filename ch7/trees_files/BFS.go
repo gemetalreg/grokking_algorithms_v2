@@ -1,4 +1,4 @@
-package graph
+package trees_files
 
 import (
 	"fmt"
